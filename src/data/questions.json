@@ -1,0 +1,40 @@
+[
+  
+  {
+    "id": 1,
+    "question": "useEffect is used for handling side effects in React.",
+    "options": ["True", "False"],
+    "correct": ["True"],
+    "type": "trueFalse"
+  },
+  {
+    "id": 2,
+    "question": "Which of the following is a JavaScript framework?",
+    "options": ["React", "Angular", "Python"],
+    "correct": ["React"],
+    "type": "single"
+  },
+  {
+    "id": 3,
+    "question": "What will be logged?",
+    "codeSnippet": "let x = 5; let y = '5'; console.log(x == y);",
+    "options": ["True", "False"],
+    "correct": ["True"],
+    "type": "trueFalse"
+  },
+  {
+    "id": 4,
+    "question": "Which of the following are valid JavaScript array methods?",
+    "options": ["map()", "filter()", "push()", "connect()"],
+    "correct": ["map()", "filter()", "push()"],
+    "type": "multiple"
+  },
+  {
+    "id": 5,
+    "question": "What does this JavaScript snippet output?",
+    "codeSnippet": "console.log(typeof undefined);",
+    "options": ["'undefined'", "'null'", "'object'"],
+    "correct": ["'undefined'"],
+    "type": "single"
+  }
+]
